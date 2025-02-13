@@ -1,2 +1,4 @@
-# Break-Alarm
-It's for our break time.
+# 쉬는 시간 알림이
+
+매 시간 50분마다 벨소리를 울려주는 웹 페이지 구현
+
